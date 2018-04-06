@@ -9,6 +9,7 @@ March, 2018
 Created for use with the Deltyburn 3D printer collecting waveform
 data from an array of transducers, using a lock-in amplifier for recording
 
+Currently takes no arguments: parameters are changed manually
 
 '''
 #Use 'Agg' for no-display backend (I do this so I can run it via SSH, but it means no preview)
